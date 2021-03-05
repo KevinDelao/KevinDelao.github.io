@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+I am a recent CS grad who is planning to delve into the world of software development. My background has mainly been research focused and the majority of my past projects have involved utilizing complex computational algorithms for applications in healthcare. Recently, I have become fascinated by the world of software development due to the near endless possible apllications that can be created with code. My current goal is to find work as a full time software developer in order to continue to pursue my passion for software development and to develop applications that can help others.
 
 
-Site-wide configuration
+To find out more about my past and current projects, check out the tabs on this site.
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which 
+
