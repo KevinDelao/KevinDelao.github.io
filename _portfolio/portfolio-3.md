@@ -7,4 +7,4 @@ An Android app made with Kotlin to manage a users healthy lifestyle. The app all
 
 The project was a group effort and all the contributors and the code itself can be seen below.
 
-<a href="https://github.com/KevinDelao/Cloud-Backend-Project">Diet and Wellness Android App</a>
+<a href="https://github.com/KevinDelao/Cloud-Backend-Project">Cloud Microservices Project</a>
