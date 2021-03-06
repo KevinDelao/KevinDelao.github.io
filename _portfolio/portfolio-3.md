@@ -3,8 +3,9 @@ title: "Cloud Microservices Project"
 excerpt: ""
 collection: portfolio
 ---
-An Android app made with Kotlin to manage a users healthy lifestyle. The app allows a user to enter what they ate throgout the day and manage their calorie intake. Additionally, the app suggests healthy recipes and excercises to promote healthy living. A Room database was used to store data from the user within the phone itself. 
+A microservices project used to recieve sensor data from an HTC Vive and transfer the data to a SQL database stored on AWS. The purpose of the project was to make it easier for a client (USC Professor) to transfer sensor data from his patients using an HTC Vive onto a cloud database. The project itself was written in JAVA and uses Spring-Rest to easily 
+communicate between JAVA objects and the SQL database. Additionaly, Docker was used to package the application and make sure it would run prefectly on the clients PC.
 
-The project was a group effort and all the contributors and the code itself can be seen below.
+The full project can be viewed on the following link.
 
 <a href="https://github.com/KevinDelao/Cloud-Backend-Project">Cloud Microservices Project</a>
