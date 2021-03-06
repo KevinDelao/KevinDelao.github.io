@@ -1,6 +1,6 @@
 ---
 title: "Library Managment System"
-excerpt: "Library Managment System<br/>"
+excerpt: 
 collection: portfolio
 ---
 A Spring-Rest application based in Java that tries to replicate the software found in many libraries to borrow and return boooks. The inspiration to work on the project came from a part time job I had as a librarian in college. I wanted to see if I could develop a software application that mimicked the software I used in the job to manage book borrowing.
