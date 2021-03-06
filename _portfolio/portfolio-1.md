@@ -1,5 +1,5 @@
 ---
-title: "Library Managment System"
+title: "Library Management System"
 excerpt: ""
 collection: portfolio
 ---
@@ -7,4 +7,4 @@ A Spring-Rest application based in Java that tries to replicate the software fou
 
 The application itself is a full stack application in that HTML & CSS are used to display the books available. Java and MySQL are used to manage the storage of books entered as well as store registered students in the library system. To view the code itself please use the link below for more information.
 
-<a href="https://www.w3schools.com">Library Managment system</a>
+<a href="https://www.w3schools.com">Library Management system</a>
