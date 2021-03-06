@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /cv/
+permalink: /resume-cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -16,4 +16,5 @@ Resume
   
 CV
 ======
+[CV](http://kevindelao.github.io/files/KevinD_CV2.pdf)
 
