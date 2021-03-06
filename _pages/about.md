@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent CS grad who is planning to delve into the world of software development. My background has mainly been research focused and the majority of my past projects have involved utilizing complex computational algorithms for applications in healthcare. Recently, I have become fascinated by the world of software development due to the near endless possible apllications that can be created with code. My current goal is to find work as a full time software developer in order to continue to pursue my passion for software development and to develop applications that can help others.
+I am a recent CS grad who is planning to delve into the world of software development. My background has mainly been research focused and the majority of my past projects have involved utilizing complex computational algorithms for applications in healthcare. Recently, I have become fascinated by the world of software development due to the near endless possible applications that can be created with code. My current goal is to find work as a full time software developer in order to continue to pursue my passion for software development and to develop applications that can help others.
 
 
 To find out more about my past and current projects, check out the tabs on this site.
