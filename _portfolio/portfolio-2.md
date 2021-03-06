@@ -1,10 +1,10 @@
 ---
 title: "Diet and Wellness Android App"
-excerpt: 
+excerpt: ""
 collection: portfolio
 ---
-A Spring-Rest application based in Java that tries to replicate the software found in many libraries to borrow and return boooks. The inspiration to work on the project came from a part time job I had as a librarian in college. I wanted to see if I could develop a software application that mimicked the software I used in the job to manage book borrowing.
+An Android app made with Kotlin to manage a users healthy lifestyle. The app allows a user to enter what they ate throgout the day and manage their calorie intake. Additionally, the app suggests healthy recipes and excercises to promote healthy living. A Room database was used to store data from the user within the phone itself. 
 
-The application itself is a full stack application in that HTML & CSS are used to display the books available. Java and MySQL are used to manage the storage of books entered as well as store registered students in the library system. To view the code itself please use the link below for more information.
+The project was a group effort and all the contributors and the code itself can be seen below.
 
-<a href="https://www.w3schools.com">Library Managment system</a>
+<a href="https://github.com/kevindelao/Diet-Android-App">Diet and Wellness Android App</a>
