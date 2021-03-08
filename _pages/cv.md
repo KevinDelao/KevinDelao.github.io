@@ -13,8 +13,11 @@ redirect_from:
 
 Resume
 ======
+
 [Resume](http://kevindelao.github.io/files/KevinDelao_Resume.pdf)
+
 CV
 ======
+
 [CV](http://kevindelao.github.io/files/KevinD_CV2.pdf)
 
