@@ -2,6 +2,5 @@
 title: "Research1"
 excerpt: ""
 collection: research
-permalink: /research/research-1
 ---
-A Spring-Rest application based in Java that tries to replicate the software found in many libraries to borrow and return boooks. The inspiration to work on the project came from -
+A Spring-Rest application based in Java that tries to replicate the software found in many libraries to borrow and return boooks. The inspiration to work on the project came from 
