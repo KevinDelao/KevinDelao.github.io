@@ -22,3 +22,6 @@ To view my summer report please use the following link
 
 To see my presentation for the summer program please use the following link 
 [Summer Presentation](https://qcb.ucla.edu/big-summer/big2020/) 
+
+To view the code created for the summer internship use the following link
+[Summer Code](https://github.com/KevinDelao/UCLA_Summer_Project/tree/kevin_code) 

@@ -11,3 +11,6 @@ was able improve sEMG movement classification by 5% in movement groups containin
 
 To view my thesis report please use the following link
 [Thesis](http://kevindelao.github.io/files/Kevin_Thesis_Final.pdf) 
+
+To view the code I developed for my thesis use the following link
+[Thesis Code](https://github.com/KevinDelao/Thesis_Project_Code) 
