@@ -1,5 +1,5 @@
 ---
-title: "Thesis Project"
+title: "Summer Internship"
 excerpt: ""
 collection: research
 ---
