@@ -1,5 +1,4 @@
 ---
----
 title: "Los Angeles Favorite Places"
 excerpt: ""
 collection: portfolio
