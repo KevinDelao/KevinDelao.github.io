@@ -4,4 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-In development, please see CV for my full research background in the meantime.
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
